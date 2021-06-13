@@ -23,20 +23,20 @@ Anyone  who would like to help improve the game is more than welcome to contribu
 ## To run or edit this program:
 
 * You need **Python** and **Pygame**.
-* If you don't have Python, go [**here**].
-* If you don't have  Pygame, go [**here**].
+* If you don't have Python, go [**here**](PYTHONINSTALL.md#installing-and-running-python-and-pygame).
+* If you don't have  Pygame, go [**here**](PYTHONINSTALL.md#how-to-install-pygame).
 * Else, simply click **"Code"** and **"Download ZIP"**: 
 	[pic]
 * Unzip the folder in your preferred location.
-* Run and edit the file using [**these**] steps.
+* Run and edit the file using [**these**](PYTHONINSTALL.md#how-to-run-a-program-via-idle steps).
 
 ## How you can help
 
 * Play the game!
 * We need help creating sprite classes for the players and enemies, improving player control functionality. as well as designing new levels.
-* [**Contact us**] if you have any suggestions/questions.
-* Write up any issues [**here**].
-* Read our [**Contribution Guide**] which contains everything you need to know about helping to improve the project. 
+* Contact us if you have any suggestions/questions.
+* Write up any issues [**here**](https://github.com/JOHN-HENRY-FOSTER/L1-Capstone2/issues).
+* Read our [**Contribution Guide**](CONTRIBUTING.md#contributing) which contains everything you need to know about helping to improve the project. 
 * We explicity welcome non-developer input.
 
 ## Licence
@@ -46,7 +46,7 @@ This project has been licenced under [**GPLv3**](https://www.gnu.org/licenses/gp
 It is [free](https://www.gnu.org/philosophy/free-sw.html), [open source](https://opensource.org/osd), [copyleft](https://www.gnu.org/licenses/copyleft.en.html) software: 
 Anyone can use, edit, and redistribute it in any way they see fit, but it must be redistributed under the same licence, and certain restrictions apply.
 
-For more information, please see [**Licence**].
+For more information, please see [**Licence**](LICENCE.md#licence).
 
 ## Contact us
 
