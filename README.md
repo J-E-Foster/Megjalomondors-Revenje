@@ -6,8 +6,8 @@ This project is a simple horizontal scrolling shoot-em-up style game made using 
 
 ## How does it work?
 
-Install Python and Pygame, run program, and play. 
-* The user presses arrow keys for up, down, left, right, and space for shoot. 
+Install Python and Pygame, run program, and play! 
+* Arrow keys = up, down, left, right, and spacebar = shoot. 
 * Enemy and prize objects move across the screen from the right.
 * Player starts with 3 lives. Lives are lost when touching emeny objects. If lives = 0, game over.    	-Points are gained by shooting enemies. 
 * Lives are gained by touching reward objects. 
