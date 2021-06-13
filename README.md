@@ -2,14 +2,14 @@
 
 [![](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/JOHN-HENRY-FOSTER/L1-Capstone1)  [![](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0)  [![](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-yellow.svg?style=flat-square)](http://contributor-covenant.org/version/1/4/)
 
-This project is a simple horizontal scrolling shoot-em-up style game made using Pygame, entitled Megjalomondor's Revenje. The current version is a shortened one-level demo that is meant to be expanded into a more playable game, and/or serve as reference or template code. 
+This project is a simple horizontal scrolling shoot-em-up style game made using Pygame, entitled **Megjalomondor's Revenje**. The current version is a shortened one-level demo that is meant to be expanded into a more playable game, and/or serve as reference or template code. 
 
 ## How does it work?
 
 Install Python and Pygame, run program, and play! 
 * Arrow keys = up, down, left, right, and spacebar = shoot. 
 * Enemy and prize objects move across the screen from the right.
-* Player starts with 3 lives. Lives are lost when touching emeny objects. If lives = 0, game over.    	-Points are gained by shooting enemies. 
+* Player starts with 3 lives. Lives are lost when touching emeny objects. If lives = 0, game over. Points are gained by shooting enemies. 
 * Lives are gained by touching reward objects. 
 * If points = 5, the stage boss appears, and 5 shots win the game. 
 * The user can play again or quit.
