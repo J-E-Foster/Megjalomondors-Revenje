@@ -50,10 +50,7 @@
 ### Check for PIP installation
 * Pip is a tool used to install Python packages.
 * It should be automatially installed with Python 3.4 +.
-* To check if it is installed, open Command Prompt:
-
-![](Pygame-install-images/0.jpg)
-
+* To check if it is installed, open **Command Prompt** again.
 * Navigate to path containing **"Python39\Scripts"** (using **"cd C:\file path"**) and press **"Enter"**:
 
 ![](Pygame-install-images/1.jpg)
