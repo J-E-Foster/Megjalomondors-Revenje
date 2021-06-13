@@ -91,7 +91,7 @@ We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make
 
 ![](IDLE-run-images-cap2/1.jpg)
 
-* You should now see game running in the **IDLE** console:
+* You should now see game running in the **Pygame** window:
 
 ![](IDLE-run-images-cap2/2.jpg)
 
