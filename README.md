@@ -26,9 +26,9 @@ Anyone  who would like to help improve the game is more than welcome to contribu
 * If you don't have Python, go [**here**](PYTHONINSTALL.md#installing-and-running-python-and-pygame).
 * If you don't have  Pygame, go [**here**](PYTHONINSTALL.md#how-to-install-pygame).
 * Else, simply click **"Code"** and **"Download ZIP"**: 
-	[pic]
+![](Github-images/0.jpg)
 * Unzip the folder in your preferred location.
-* Run and edit the file using [**these**](PYTHONINSTALL.md#how-to-run-a-program-via-idle steps).
+* Run and edit the file using [**these**](PYTHONINSTALL.md#how-to-run-a-program-via-idle).
 
 ## How you can help
 
