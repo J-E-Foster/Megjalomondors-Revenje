@@ -1,4 +1,4 @@
-# Installing and running Python
+# Installing and running Python and Pygame
 
 ## How to install Python 
 
@@ -91,7 +91,7 @@
 We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make programming easier. Python comes with its own one, **IDLE**:
 
 * Search for the folder where you saved **capstone_2.py** (or any other Python file).
-* Make sure all the game images are in the same folder:
+* **Make sure all the game images and font located in the "Game-images" folder are copied to the same folder**:
 
 [pic]
 
