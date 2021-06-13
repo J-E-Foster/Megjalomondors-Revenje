@@ -79,7 +79,7 @@
 
 ## How to run a program via IDLE
 
-We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make programming easier. Python comes with its own one, **IDLE**:
+We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make programming easier. Python comes with its own one, **IDLE**.
 
 * Search for the folder where you saved **capstone_2.py** (or any other Python file).
 * **Make sure all the game images and font located in the "Game-images" folder are copied to the same folder**.
