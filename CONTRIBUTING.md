@@ -70,7 +70,7 @@ We generally try to follow the [**Google Python Style Guide**](https://google.gi
 * Except for very urgent or very small changes, we leave the requests open for at least a day.
 * This way other people have the chance to review/coment. 
 * We ask that anyone who reviews a pull request should leave a "looked at" note.
-* Please be professional, civil, and constructive when commenting on pull requests or responding to comments (please see our [code of contuct](CODEOFCONDUCT.md#code-of-conduct)).
+* Please be professional, civil, and constructive when commenting on pull requests or responding to comments (please see our [Code of Contuct](CODEOFCONDUCT.md#code-of-conduct)).
 * If replying to a comment, condiser being appreciative and try to reply to every comment made. 
 * Do ask for clarification if something is unclear.
 	
