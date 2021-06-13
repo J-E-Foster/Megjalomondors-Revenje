@@ -4,48 +4,46 @@
 
 * Go to [**Python.org**](Python.org/downloads):
 
-[pic]
-
 * Click **"Download Python 3.9.5"** or choose a different OS:
 
-[pic]
+![](Python-install-images/0.jpg)
 
 * Save file in preferred location:
 
-[pic]
+![](Python-install-images/1.jpg)
 
 * Run the **.exe** file. 
 * Click "Customize installation":
 
-[pic]
+![](Python-install-images/2.jpg)
 
 * Leave **Optional Features** as is and click **"Next"**:
 
-[pic]
+![](Python-install-images/3.jpg)
 
 * In **Advanced Options** tick **"Install for all users"** and click **"Install"**:
 
-[pic]
+![](Python-install-images/4.jpg)
 
 * Click **"Yes"** and wait for install:
 
-[pic]
+![](Python-install-images/5.jpg)
 
 * **Setup was successful** should display after install. Click **"Close"**:
 
-[pic]
+![](Python-install-images/6.jpg)
 
 * Search for and open **Command Prompt**:
 
-[pic]
+![](Python-install-images/7.jpg)
 
 * Type **"cd C:\Program Files\Python39"** (or change directory to your Python locatation):
 
-[pic]
+![](Python-install-images/8.jpg)
 
 * Type **"python --version"**, and the installed version should be displayed:
 
-[pic]
+![](Python-install-images/9.jpg)
 
 ## How to install pygame
 
@@ -54,36 +52,32 @@
 * It should be automatially installed with Python 3.4 +.
 * To check if it is installed, open Command Prompt:
 
-[pic]
+![](Pygame-install-images/0.jpg)
 
 * Navigate to path containing **"Python39\Scripts"** (using **"cd C:\file path"**) and press **"Enter"**:
 
-[pic]
+![](Pygame-install-images/1.jpg)
 
 * Type **"pip --version"** and press **"Enter"** - version should display:
 
-[pic]
+![](Pygame-install-images/2.jpg)
 
 ### Install pygame
-* Type **"pip install pygame"** and press **"Enter"**:
-
-[pic]
+* Type **"pip install pygame"** and press **"Enter"**.
 
 * You should see a **"Successfully installed pygame"** message:
 
-[pic]
+![](Pygame-install-images/3.jpg)
 
 * Open the Python terminal:
 
-[pic]
+![](Pygame-install-images/4.jpg)
 
-* Type **"import pygame"** and press **"Enter""**:
-
-[pic]
+* Type **"import pygame"** and press **"Enter""**.
 
 * You should see a **"Hello from the pygame community" message"**:
 
-[pic]
+![](Pygame-install-images/5.jpg)
 
 
 ## How to run a program via IDLE
@@ -91,20 +85,17 @@
 We need an [**IDE**](https://www.codecademy.com/articles/what-is-an-ide) to make programming easier. Python comes with its own one, **IDLE**:
 
 * Search for the folder where you saved **capstone_2.py** (or any other Python file).
-* **Make sure all the game images and font located in the "Game-images" folder are copied to the same folder**:
-
-[pic]
-
+* **Make sure all the game images and font located in the "Game-images" folder are copied to the same folder**.
 * Right click on the icon, and choose **"Edit with IDLE"**:
 
-[pic]
+![](IDLE-run-images-cap2/0.jpg)
 
 * The file should open. Click the **"Run"** tab and **"Run Module"**:
 
-[pic]
+![](IDLE-run-images-cap2/1.jpg)
 
 * You should now see game running in the **IDLE** console:
 
-[pic]
+![](IDLE-run-images-cap2/2.jpg)
 
 And that's it - you're good to go! 
