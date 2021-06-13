@@ -4,7 +4,7 @@
 
 We're very happy you are thinking of contributing to this project!
 
-We seek to help create a healthy open source collaboration space via  following the [**Contributor Covenanant**](https://www.contributor-covenant.org/) code of conduct, 
+We seek to help create a healthy open source collaboration space via  following the [**Contributor Covenanant**](CODEOFCONDUCT.md#code-of-conduct) code of conduct, 
 and ask all contributors to do the same.
 
 If at any point you are unsure about anything, do send us an [email](mailto:anoxicdrollie@gmail.com).
@@ -18,18 +18,19 @@ If you prefer more direct action, you can submit a pull request or and issue str
 * You are free to use, change and redistrubute this software in any way you see fit, provided the same freedoms are guaranteed to others by redistributing under the same licence.
 * There is no contributor licence agreement. Contributors retain the copywrite to their contributions as long as they honor the licence requirements.
 
-Please see [**Licence**] for more information.
+Please see [**Licence**](LICENCE.md#licence) for more information.
 
 ## Help wanted!
-* To create different sprite classes for player and enemy objects and simplifying movement and  collision protocol. 
-* To code in a scrolling background object/s.
-* To add more functionality to the player object's movements.
-* To speed up the big boss' movements.
-* To add new levels and ideas to the game.
-* To add usernames/player to the game.
-* To store said player's stats.
-* To add a High score counter.
-* To add a timer in certain stages.
+We need your help to:
+* Create different sprite classes for player and enemy objects and simplifying movement and  collision protocol. 
+* Code in a scrolling background object/s.
+* Add more functionality to the player object's movements.
+* Speed up the big boss' movements.
+* Add new levels and ideas to the game.
+* Add usernames/player to the game.
+* Store said player's stats.
+* Add a High score counter.
+* Add a timer in certain stages.
 
 Anyone is welcome to contact us - even if it is just about a small idea or suggestion!
 
@@ -37,7 +38,7 @@ Anyone is welcome to contact us - even if it is just about a small idea or sugge
 
 * To submit work for contribution, you need a [**Github** account](https://github.com).
 * You also need [**Git**](https://docs.github.com/en/github/getting-started-with-github/quickstart/set-up-git).  
-* Follow [**these steps**] to create a local copy of this repository on your machine and to start submitting changes. 
+* Follow [**these steps**](WORKFLOW.md#contributing-via-the-fork-and-branch-workflow) to create a local copy of this repository on your machine and to start submitting changes. 
 
 ### Code style
 
@@ -69,7 +70,7 @@ We generally try to follow the [**Google Python Style Guide**](https://google.gi
 * Except for very urgent or very small changes, we leave the requests open for at least a day.
 * This way other people have the chance to review/coment. 
 * We ask that anyone who reviews a pull request should leave a "looked at" note.
-* Please be professional, civil, and constructive when commenting on pull requests or responding to comments (please see our [code of contuct]).
+* Please be professional, civil, and constructive when commenting on pull requests or responding to comments (please see our [code of contuct](CODEOFCONDUCT.md#code-of-conduct)).
 * If replying to a comment, condiser being appreciative and try to reply to every comment made. 
 * Do ask for clarification if something is unclear.
 	
