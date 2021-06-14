@@ -2,7 +2,7 @@
 
 ## How to install Python 
 
-* Go to [**Python.org**](Python.org/downloads):
+* Go to [**Python.org**](Python.org/downloads).
 
 * Click **"Download Python 3.9.5"** or choose a different OS:
 
