@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/Version-1.0-blue.svg)](https://github.com/JOHN-HENRY-FOSTER/L1-Capstone1)  [![](https://img.shields.io/badge/License-GPLv3-brightgreen.svg)](https://www.gnu.org/licenses/gpl-3.0)  [![](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-yellow.svg?style=flat-square)](http://contributor-covenant.org/version/1/4/)
 
-This project is a simple horizontal scrolling shoot-em-up style game made using Pygame, entitled **Megjalomondor's Revenje**. The current version is a shortened one-level demo that is meant to be expanded into a more playable game, and/or serve as reference or template code. 
+This project is a simple horizontal scrolling shoot-em-up style game made using Pygame. The current version is a shortened one-level demo that is meant to be expanded into a more playable game, and/or serve as reference or template code. 
 
 ## How does it work?
 
